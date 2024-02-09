@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "oracle.datasource.maximum-pool-size",
+      "type": "java.lang.String",
+      "description": "Description for oracle.datasource.maximum-pool-size."
+  }
+] }
